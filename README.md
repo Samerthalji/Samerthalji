@@ -64,7 +64,7 @@ SSoftware Engineering graduate from Al-Balqa Applied University (2026), focused 
 
 | Project | Description | Stack | Links |
 |---|---|---|---|
-| **Al-Amal Clinic** | Clinic appointment system with three roles (patient, doctor, admin). Clean Architecture API, JWT with refresh tokens, role-based authorization, double-booking prevention, Arabic (RTL) frontend. | ASP.NET Core, EF Core, SQL Server, React, Vite | [Live Demo](https://clinic-frontend-omega-lake.vercel.app) · [Frontend](https://github.com/Samerthalji/clinic-frontend) · [Backend](https://github.com/Samerthalji/clinic-backend) |
+| **Al-Amal Clinic** | Clinic appointment system with three roles (Patient, Doctor, Admin). ASP.NET Core Web API built with Clean Architecture, featuring JWT authentication with refresh tokens, role-based authorization, double-booking prevention, global exception handling with ProblemDetails, and unit testing using xUnit and Moq. Includes an Arabic (RTL) frontend.| [Live Demo](https://clinic-frontend-omega-lake.vercel.app) · [Frontend](https://github.com/Samerthalji/clinic-frontend) · [Backend](https://github.com/Samerthalji/clinic-backend) |
 | **Doroop** | Job platform for job seekers and companies (2-person graduation project, I built the frontend). Auto token refresh, CV upload, company dashboard, demo mode with a mock API. | React, Tailwind CSS, Axios | [Live Demo](https://doroop-frontend.vercel.app) · [GitHub](https://github.com/Samerthalji/doroop-frontend) |
 
 ---
