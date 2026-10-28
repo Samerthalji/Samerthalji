@@ -11,12 +11,12 @@
 
 ## About Me
 
-Software Engineering graduate (Al-Balqa Applied University, 2026) who builds complete web applications, from the SQL Server database and ASP.NET Core API to the React interface.
+SSoftware Engineering graduate from Al-Balqa Applied University (2026), focused on building full-stack web applications using ASP.NET Core, React, and SQL Server.
 
-- Focused on clean, layered architecture, secure authentication and role-based access control
-- Completed a full-stack .NET and SQL training at **Dalil Information Technology**
-- Looking for a junior full-stack or .NET developer role
-
+- Experienced in building REST APIs using Clean Architecture, JWT authentication, and role-based authorization.
+- Familiar with unit testing using xUnit and Moq, and centralized exception handling with ProblemDetails.
+- Completed full-stack .NET and SQL training at Dalil Information Technology.
+- Seeking a Junior .NET Developer or Full-Stack Developer opportunity.
 ---
 
 ## Tech Stack
@@ -28,6 +28,10 @@ Software Engineering graduate (Al-Balqa Applied University, 2026) who builds com
 ![EF Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+**Testing**
+
+![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Moq](https://img.shields.io/badge/Moq-007ACC?style=for-the-badge&logo=dotnet&logoColor=white)
 
 **Database**
 
