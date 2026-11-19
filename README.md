@@ -13,10 +13,10 @@
 
 Software Engineering graduate from Al-Balqa Applied University (2026), focused on building full-stack web applications using ASP.NET Core, React, and SQL Server.
 
-Experienced in building REST APIs using Clean Architecture, JWT authentication, and role-based authorization.
-Wrote 60 unit tests and 8 integration tests using xUnit, Moq, and WebApplicationFactory.
-Completed two internships: full-stack .NET at Dalil Information Technology, and React & .NET web development at Clever Mind Pob.
-Seeking a Junior .NET Developer or Full-Stack Developer opportunity.
+- Experienced in building REST APIs using Clean Architecture, JWT authentication, and role-based authorization.
+- Wrote 60 unit tests and 8 integration tests using xUnit, Moq, and WebApplicationFactory.
+- Completed two internships: full-stack .NET at Dalil Information Technology, and React & .NET web development at Clever Mind Pob.
+- Seeking a Junior .NET Developer or Full-Stack Developer opportunity.
 ---
 
 ## Tech Stack
